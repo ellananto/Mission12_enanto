@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to the NCAA Basketball Website.</h1>
+        <h1>Welcome to the NCAA Basketball Website!</h1>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <TeamList/>
