@@ -1,0 +1,7 @@
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\AWSTest.exe
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\AWSTest.dll
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\AWSTest.deps.json
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\AWSTest.runtimeconfig.json
+C:\Users\bnant\OneDrive\Ella\IS 413\Mission12\backend\AWSTest\obj\Release\net6.0\PubTmp\Out\AWSTest.pdb
